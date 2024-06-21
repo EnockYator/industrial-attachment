@@ -1,4 +1,4 @@
-# Industrial Attachment Application
+# Industrial Attachment Application System
 
 This is a web application that can be used by an organization, institution or a company to allow 
 college and university students to apply for industrial training attachment online.
