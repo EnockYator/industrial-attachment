@@ -1,4 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Industrial Attachment Application
+
+This is a web application that can be used by an organization, institution or a company to allow 
+college and university students to apply for industrial training attachment online.
+
+## Users
+
+### 1. Applicants
+
+### 2. Human Resource Officer
+
+### 3. System Admin
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
