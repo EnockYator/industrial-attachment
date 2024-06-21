@@ -1,0 +1,1 @@
+export { default } from "file:///home/enock/Projects/industrial-attachment/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
