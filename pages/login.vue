@@ -17,8 +17,8 @@
 
                     <p>
                         Don't have an account? 
-                        <NuxtLink to="signup" class="login-alternative">
-                            Signup<span> here</span>
+                        <NuxtLink to="register" class="login-alternative">
+                            Register<span> here</span>
                         </NuxtLink>
                     </p>
                 </form>

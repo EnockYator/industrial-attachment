@@ -26,7 +26,7 @@
 
                     <p>
                         Already have an account? 
-                        <NuxtLink to="signup" class="signup-alternative">
+                        <NuxtLink to="login" class="signup-alternative">
                             Login<span> here</span>
                         </NuxtLink>
                     </p>
