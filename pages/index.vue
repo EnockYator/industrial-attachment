@@ -252,7 +252,7 @@ export default {
 .initial-page{
     height: 510px;
     width: 95vw;
-    margin: 20px auto;
+    margin: auto;
     display: flex;
     flex-direction: row;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
