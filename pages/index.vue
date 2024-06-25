@@ -179,7 +179,7 @@
         </div>
 
         <div class="extras">
-            <NuxtLink to="register">
+            <NuxtLink to="application">
                 <div class="how-to-apply flex-item">
                 <h3>How to apply</h3>
                 <p>
@@ -316,14 +316,14 @@ export default {
 }
 
 .attachment-areas{
-    width: 95vw;
+    width: 90vw;
     height: fit-content;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     gap: 40px;
     border-radius: 10px;
     margin: 50px auto;
-    padding: 30px;
+    padding: 20px;
     background-color: rgba(93, 96, 96, 0.279);
 }
 

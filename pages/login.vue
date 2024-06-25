@@ -1,4 +1,5 @@
 <template>
+    <Header />
     <div id="loginPage">
         <div class="login-container">
             <div class="login-heading">
@@ -75,7 +76,7 @@ export default {
     width: 100%;
     height: 40px;
     background-color: blue;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
     padding: 5px;
 }
 

@@ -1,28 +1,29 @@
 <template>
+    <Header />
     <div id="signupPage">
         <div class="signup-container">
             <div class="signup-heading">
-                <h3>Sign Up</h3>
+                <h3>Register</h3>
             </div>
 
             <div class="signup-form">
                 <form>
-                    <label for="firstName">First Name:</label>
-                    <input type="text" name="firstName" id="firstName" placeholder="First Name" required>
-
-                    <label for="secondName">Second Name:</label>
-                    <input type="text" name="secondName" id="secondName" placeholder="Second Name" required>
+                    <label for="fullNames">Full Names:</label>
+                    <input type="text" name="fullNames" id="fullNames" placeholder="John Paul" required>
 
                     <label for="email">Email:</label>
-                    <input type="email" name="email" id="email" placeholder="Email address" required>
+                    <input type="email" name="email" id="email" placeholder="example@gmail.com" required>
 
+                    <!--<label for="email">Role:</label>
+                    Hr<input type="radio" name="role" id="role" value="hrOfficer">
+                    Applicant<input type="radio" name="role" id="role" value="applicant">-->
                     <label for="password">Password:</label>
                     <input type="password" name="password" id="password" placeholder="Password" required>
 
                     <label for="confirmedPassword">Password:</label>
                     <input type="password" name="confirmedPassword" id="confirmedPassword" placeholder="Confirm Password" required>
 
-                    <button type="submit" class="signup-btn">Signup</button>
+                    <button type="submit" class="signup-btn">Register</button>
 
                     <p>
                         Already have an account? 
@@ -85,7 +86,7 @@ export default {
     width: 100%;
     height: 40px;
     background-color: blue;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
     padding: 5px;
 }
 
