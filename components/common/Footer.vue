@@ -2,17 +2,17 @@
     <div id="pageFooter">
         <div class="hyperlinks flex-item">
             <ul>
-                <li><NuxtLink to="about">About Us</NuxtLink></li>
+                <li><NuxtLink to="about">About us</NuxtLink></li>
                 <li><NuxtLink to="media">Media centre</NuxtLink></li>
                 <li><NuxtLink to="careers">Careers</NuxtLink></li>
-                <li><NuxtLink to="signup">Sign up</NuxtLink></li>
+                <li><NuxtLink to="register">Register</NuxtLink></li>
                 <li><NuxtLink to="login">Login</NuxtLink></li>
             </ul>
         </div>
         <div class="need-help flex-item">
             <ul>
                 <li><h3>Need help?</h3></li>
-                <li><NuxtLink to="contact">Contact us</NuxtLink></li>
+                <li><NuxtLink to="contact-us">Contact us</NuxtLink></li>
                 <li><NuxtLink to="faqs">FAQs</NuxtLink></li>
             </ul>
         </div>

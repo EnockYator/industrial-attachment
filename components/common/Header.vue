@@ -17,6 +17,7 @@
         <ul>
             <li><NuxtLink to="/">Home</NuxtLink></li>
             <li><NuxtLink to="about">About</NuxtLink></li>
+            <li><NuxtLink to="application">How to Apply</NuxtLink></li>
             <li><NuxtLink to="contact-us">Contact us</NuxtLink></li>
             <li><NuxtLink to="faqs">FAQs</NuxtLink></li>
             
@@ -76,7 +77,7 @@ export default{
     flex-wrap: nowrap;
     padding: 15px 100px 15px 10px;
     justify-content: space-between;
-    background-color: rgba(48, 48, 173, 0.749);
+    background-color: rgba(48, 48, 173, 0.7);
     font-weight: bold
 }
 
