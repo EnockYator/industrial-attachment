@@ -1,9 +1,11 @@
 # Industrial Attachment Application System
 
 This is a web application that can be used by an organization, institution or a company to allow 
-college and university students to apply for industrial training attachment online.
+college and university students to apply for industrial training attachment online in respect to
+their specific fields of study.
 
 ## Users
+The users in this application are:
 
 ### 1. Applicants
 
@@ -11,7 +13,12 @@ college and university students to apply for industrial training attachment onli
 
 ### 3. System Admin
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Using the application
+### 1. Creating an account
+### 2. Logging in to your account
+
+
+
 
 ## Setup
 
@@ -84,3 +91,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
